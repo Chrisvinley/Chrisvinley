@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://github.com/Chrisvinley.png" width="120" style="border-radius: 50%; border: 3px solid #1f6feb; box-shadow: 0 0 22px rgba(88,166,255,.55);" alt="Chrisvinley" />
+</p>
+
+<p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Chrisvinley;Reverse+Engineering+%F0%9F%94%8D;Security+Operations+%F0%9F%9B%A1%EF%B8%8F;Web+Development+%F0%9F%8C%90;YOLO+%2F+Computer+Vision+%F0%9F%8E%AF" alt="typing" />
   </a>
@@ -30,9 +34,13 @@
 ## 🗣️ Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/English-Fluent-1f6feb?style=flat-square" alt="English" />
-  <img src="https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E_Japanese-Conversational-1f6feb?style=flat-square" alt="Japanese" />
+  <img src="https://img.shields.io/badge/English-Fluent-1f6feb?style=flat-square" alt="English" />&nbsp;
+  <img src="https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E_Japanese-Conversational-1f6feb?style=flat-square" alt="Japanese" />&nbsp;
   <img src="https://img.shields.io/badge/%E7%B2%B5%E8%AA%9E_Cantonese-Native-1f6feb?style=flat-square" alt="Cantonese" />
+</p>
+
+<p align="center">
+  <sub><b>Open to collaboration on RE tooling, security research, and CV pipelines.</b></sub>
 </p>
 
 ---
