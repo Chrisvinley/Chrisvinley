@@ -36,8 +36,8 @@
   <img src="https://img.shields.io/badge/%E7%B2%B5%E8%AA%9E_Cantonese-Native-1f6feb?style=flat-square" alt="Cantonese" />
 </p>
 
-## 🔥 Streak
+## 🍩 Top Languages
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chrisvinley&locale=en&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisvinley&layout=donut&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8" alt="top languages" />
 </p>
