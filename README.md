@@ -36,8 +36,13 @@
   <img src="https://img.shields.io/badge/%E7%B2%B5%E8%AA%9E_Cantonese-Native-1f6feb?style=flat-square" alt="Cantonese" />
 </p>
 
-## 🍩 Top Languages
+## 📊 Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisvinley&layout=donut&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8" alt="top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chrisvinley&theme=github_dark" alt="profile details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chrisvinley&theme=github_dark" alt="repos per language" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chrisvinley&theme=github_dark" alt="stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chrisvinley&theme=github_dark" alt="productive time" width="49%" />
 </p>
