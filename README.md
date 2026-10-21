@@ -11,12 +11,13 @@
 
 ## 🔭 What I Do
 
-| | |
+| 🔍 **Reverse Engineering** | 🛡️ **Security Operations** |
 |---|---|
-| 🔍 **Reverse Engineering** | Unpacking & packer analysis (Themida / VM-based protectors) · anti-debug & anti-tamper · private protocol reversing (QUIC / UDP) · ONNX / YOLO model reversing |
-| 🛡️ **Security Operations** | Windows kernel research & internals · traffic analysis & MITM tooling · incident response · red-team utility development (C / C++ / Rust) |
-| 🌐 **Web Development** | TypeScript · Node.js · Astro — from API design and auth flows to production deployment |
-| 🎯 **YOLO / Computer Vision** | Dataset annotation & quality-check pipelines · model training & evaluation · detection service deployment |
+| • Binary analysis of native x86/x64 apps, unpacking strong packers (Themida / XBundler) and VM-based protectors<br>• Anti-debug / anti-dump / anti-tamper identification & bypass, OEP recovery and IAT reconstruction<br>• Private protocol reversing & re-implementation (QUIC, custom UDP telemetry streams)<br>• Android APK reversing: smali patching and Frida hooking<br>• ONNX / YOLO model extraction and behavior analysis | • Windows kernel research: drivers, kernel R/W primitives, ROP-only implants<br>• UEFI / SMM research and firmware-level experiments<br>• Traffic analysis & MITM: custom proxies, native socket stacks (AFD), real-time UDP capture<br>• Incident response & hardening automation for Windows fleets<br>• Red-team utility development in C / C++ / Rust |
+
+| 🌐 **Web Development** | 🎯 **YOLO / Computer Vision** |
+|---|---|
+| • TypeScript-first full stack: Node.js, Next.js, Astro<br>• REST / WebSocket API design, auth flows (JWT / OAuth), data modeling<br>• Deployment & ops: PM2, Nginx, self-signed TLS, Tencent Cloud Lighthouse<br>• Internal dashboards & tooling for RE and CV projects<br>• Performance-minded: streaming, caching, and low-latency transport | • Dataset annotation & automated quality-check pipelines<br>• YOLO training, hyperparameter tuning, and evaluation (mAP)<br>• ONNX export & deployment of detection services<br>• Real-time inference on video streams and screen capture (DXGI) input<br>• Integrating detection into gaming, monitoring, and automation tools |
 
 ## 🧰 Tech Stack
 
