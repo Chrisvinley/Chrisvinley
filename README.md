@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1f6feb,100:58a6ff&height=150&section=header&text=Chrisvinley&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" />
-
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Reverse+Engineering+%F0%9F%94%8D;Security+Operations+%F0%9F%9B%A1%EF%B8%8F;Web+Development+%F0%9F%8C%90;YOLO+%2F+Computer+Vision+%F0%9F%8E%AF" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Chrisvinley;Reverse+Engineering+%F0%9F%94%8D;Security+Operations+%F0%9F%9B%A1%EF%B8%8F;Web+Development+%F0%9F%8C%90;YOLO+%2F+Computer+Vision+%F0%9F%8E%AF" alt="typing" />
   </a>
 </p>
 
@@ -28,10 +26,18 @@
   </a>
 </p>
 
+## 🐍 贡献图
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chrisvinley/Chrisvinley/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chrisvinley/Chrisvinley/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Chrisvinley/Chrisvinley/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  </picture>
+</p>
+
 ---
 
 <p align="center">
   <em>Debug the present, reverse the future.</em>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1f6feb,100:58a6ff&height=100&section=footer" width="100%" />
