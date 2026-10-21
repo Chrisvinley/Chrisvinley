@@ -9,16 +9,16 @@
   <a href="https://github.com/Chrisvinley?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%93%A6_repositories-9-1f6feb?style=flat-square" alt="repos" /></a>
 </p>
 
-## 🧭 我在做什么
+## 🔭 What I Do
 
-| 方向 | 内容 |
+| | |
 |---|---|
-| 🔍 **逆向工程** | 脱壳与强壳分析 · VM 保护 · anti-debug · 私有协议还原 · 模型逆向 |
-| 🛡️ **安全运维** | Windows 内核研究 · 流量分析与 MITM · 应急响应 · 工具链开发 |
-| 🌐 **Web 开发** | TypeScript · Node · Astro，从接口设计到部署上线 |
-| 🎯 **YOLO 开发** | 数据集标注与质检 · 模型训练 · 检测服务部署 |
+| 🔍 **Reverse Engineering** | Unpacking & packer analysis (Themida / VM-based protectors) · anti-debug & anti-tamper · private protocol reversing (QUIC / UDP) · ONNX / YOLO model reversing |
+| 🛡️ **Security Operations** | Windows kernel research & internals · traffic analysis & MITM tooling · incident response · red-team utility development (C / C++ / Rust) |
+| 🌐 **Web Development** | TypeScript · Node.js · Astro — from API design and auth flows to production deployment |
+| 🎯 **YOLO / Computer Vision** | Dataset annotation & quality-check pipelines · model training & evaluation · detection service deployment |
 
-## 🧰 技术栈
+## 🧰 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,7 +26,13 @@
   </a>
 </p>
 
----
+## 🗣️ Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/English-Fluent-1f6feb?style=flat-square" alt="English" />
+  <img src="https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E_Japanese-Conversational-1f6feb?style=flat-square" alt="Japanese" />
+  <img src="https://img.shields.io/badge/%E7%B2%B5%E8%AA%9E_Cantonese-Native-1f6feb?style=flat-square" alt="Cantonese" />
+</p>
 
 ---
 
