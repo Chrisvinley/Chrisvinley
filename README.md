@@ -38,10 +38,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisvinley&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Chrisvinley/Chrisvinley/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
 
 <p align="center"><em>"The only way to reverse the future is to debug the present."</em></p>
