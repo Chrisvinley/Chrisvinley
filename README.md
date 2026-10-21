@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://github.com/Chrisvinley.png" width="120" style="border-radius: 50%; border: 3px solid #1f6feb; box-shadow: 0 0 22px rgba(88,166,255,.55);" alt="Chrisvinley" />
-</p>
-
-<p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Chrisvinley;Reverse+Engineering+%F0%9F%94%8D;Security+Operations+%F0%9F%9B%A1%EF%B8%8F;Web+Development+%F0%9F%8C%90;YOLO+%2F+Computer+Vision+%F0%9F%8E%AF" alt="typing" />
   </a>
@@ -11,6 +7,7 @@
 <p align="center">
   <a href="https://chrisvinley.github.io"><img src="https://img.shields.io/badge/%F0%9F%8F%A0_homepage-chrisvinley.github.io-1f6feb?style=flat-square" alt="homepage" /></a>
   <a href="https://github.com/Chrisvinley?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%93%A6_repositories-9-1f6feb?style=flat-square" alt="repos" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Chrisvinley&color=1f6feb&style=flat-square&label=visitors" alt="visitors" />
 </p>
 
 ## 🔭 What I Do
@@ -39,12 +36,14 @@
   <img src="https://img.shields.io/badge/%E7%B2%B5%E8%AA%9E_Cantonese-Native-1f6feb?style=flat-square" alt="Cantonese" />
 </p>
 
+## 🏆 Achievements
+
 <p align="center">
-  <sub><b>Open to collaboration on RE tooling, security research, and CV pipelines.</b></sub>
+  <img src="https://github-profile-trophy.vercel.app/?username=Chrisvinley&theme=github-dark-blue&no-frame=true&no-bg=true&column=7" alt="trophies" width="100%" />
 </p>
 
----
+## 📈 Activity Graph
 
 <p align="center">
-  <em>Debug the present, reverse the future.</em>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chrisvinley&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" alt="activity graph" width="100%" />
 </p>
