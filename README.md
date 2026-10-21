@@ -35,14 +35,3 @@
   <img src="https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E_Japanese-Conversational-1f6feb?style=flat-square" alt="Japanese" />&nbsp;
   <img src="https://img.shields.io/badge/%E7%B2%B5%E8%AA%9E_Cantonese-Native-1f6feb?style=flat-square" alt="Cantonese" />
 </p>
-
-## 📊 Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chrisvinley&theme=github_dark" alt="profile details" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chrisvinley&theme=github_dark" alt="repos per language" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chrisvinley&theme=github_dark" alt="stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chrisvinley&theme=github_dark" alt="productive time" width="49%" />
-</p>
