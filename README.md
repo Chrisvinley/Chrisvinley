@@ -36,14 +36,8 @@
   <img src="https://img.shields.io/badge/%E7%B2%B5%E8%AA%9E_Cantonese-Native-1f6feb?style=flat-square" alt="Cantonese" />
 </p>
 
-## 🏆 Achievements
+## 🔥 Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chrisvinley&theme=github-dark-blue&no-frame=true&no-bg=true&column=7" alt="trophies" width="100%" />
-</p>
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chrisvinley&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" alt="activity graph" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=Chrisvinley&locale=en&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="streak" />
 </p>
