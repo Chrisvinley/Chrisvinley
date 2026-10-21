@@ -26,6 +26,7 @@
   </a>
 </p>
 
+<!-- 贪吃蛇：账号 billing 解锁后取消此注释即可
 ## 🐍 贡献图
 
 <p align="center">
@@ -35,6 +36,7 @@
     <img src="https://raw.githubusercontent.com/Chrisvinley/Chrisvinley/output/github-contribution-grid-snake-dark.svg" alt="snake" />
   </picture>
 </p>
+-->
 
 ---
 
